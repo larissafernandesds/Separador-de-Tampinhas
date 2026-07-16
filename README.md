@@ -1,4 +1,3 @@
-<img width="1920" height="900" alt="ODS" src="https://github.com/user-attachments/assets/09ad3c55-6c53-44da-9b62-ab2013cec9d0" />
 <h1 align="center">♻️ Separador de Tampinhas ♻️</h1>
 <h3 align="center">Grupo 4</h3>
 
